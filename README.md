@@ -51,4 +51,3 @@ chmod +x data/joins_config.sh
 - What are aggregate functions and how do you use them?
 
 ---
-*Source: Crio MySQL module notes, reorganized into a repo for ongoing SQL practice.*
