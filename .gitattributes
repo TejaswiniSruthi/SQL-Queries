@@ -1,0 +1,6 @@
+# Ensure SQL files are recognized as SQL by GitHub Linguist
+# This maps all .sql files to the SQL language
+*.sql linguist-language=SQL
+
+# (Optional) If any generated or vendor SQL files exist, mark them as vendored to exclude from language stats
+# data/vendor/*.sql linguist-vendored
